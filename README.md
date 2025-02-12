@@ -1,5 +1,31 @@
-🌱 Currently learning AI fine-tuning, Full-Stack Development, and Scalable Systems.
-🛠️ Working with React, Node.js, Python, MIPS Assembly, and Machine Learning.
-🎯 Exploring AI chatbots, Algorithmic Optimization, and Web3 Technologies.
-📚 Passionate about Competitive Programming, System Design, and Tech Innovations.
-🏆 Constantly improving my DSA and Problem-Solving skills.
+Hi there! 👋
+
+🌱 Currently Learning
+
+AI Fine-Tuning & Large Language Models
+
+Full-Stack Development (MERN, Next.js)
+
+Scalable Systems & Cloud Computing
+
+🛠️ Tech Stack
+
+Frontend: React, Next.js, TailwindCSS
+
+Backend: Node.js, Express, MongoDB
+
+AI/ML: Python, TensorFlow, PyTorch
+
+Low-Level: MIPS Assembly, C++
+
+
+🎯 Interests & Projects
+
+🚀 AI Chatbots & NLP
+
+🔥 Algorithmic Optimization
+
+💡 Competitive Programming & DSA
+
+🏗️ System Design & Scalable Architectures
+
