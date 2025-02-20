@@ -2,15 +2,13 @@ Hi there! 👋
 
 🌱 Currently Learning
 
-AI Fine-Tuning & Large Language Models
+AI, Fine-Tuning & Large Language Models
 
-Full-Stack Development (MERN, Next.js)
-
-Scalable Systems & Cloud Computing
+Full-Stack Develop
 
 🛠️ Tech Stack
 
-Frontend: React, Next.js, TailwindCSS
+Frontend: React, TailwindCSS
 
 Backend: Node.js, Express, MongoDB
 
