@@ -2,9 +2,9 @@ Hi there! 👋
 
 🌱 Currently Learning
 
-AI, Fine-Tuning & Large Language Models
+**AI, Fine-Tuning & Large Language Models**
 
-Full-Stack Develop
+**Full-Stack Development**
 
 🛠️ Tech Stack
 
