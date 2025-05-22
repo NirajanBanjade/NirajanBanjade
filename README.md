@@ -3,6 +3,16 @@
 Hi there! 👋 I'm Nirajan, a Computer Science student who loves building real-world systems, solving complex problems, and learning something new every day.
 
 ---
+---
+
+## 🔒 Note on Private Projects
+
+Some of my most recent and advanced work — including research on LLM fine-tuning, distributed data pipelines, and domain-specific NLP — is part of an ongoing academic collaboration and is kept **private due to research guidelines**.
+
+If you're interested in learning more, feel free to reach out! I'm happy to discuss the work in more detail or share examples privately when appropriate.
+
+📬 nirajanbanjade321@gmail.com  
+
 
 ## 🌱 **Currently Learning**
 
