@@ -39,4 +39,4 @@ I love working on projects that combine creativity with technical depth. I enjoy
 If you're a fellow builder, learner, or recruiter — I’d love to chat!
 
 📫 **Email:** nirajanbanjade321@gmail.com  
-💼 **LinkedIn:** [[linkedin.com/in/nirajanbanjade](https://linkedin.com/in/nirajanbanjade) ](https://www.linkedin.com/in/nirajan-banjade/) 
+💼 **LinkedIn:** (https://www.linkedin.com/in/nirajan-banjade/) 
