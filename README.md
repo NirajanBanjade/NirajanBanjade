@@ -28,7 +28,7 @@ If you're interested in learning more, feel free to reach out! I'm happy to disc
 - **Backend:** Node.js, Express, MongoDB  
 - **AI/ML:** Python, PyTorch, TensorFlow  
 - **Low-Level:** C++, MIPS Assembly  
-- **Cloud & Tools:** Linux, Git, AWS (EC2), REST APIs, MPI
+- **Cloud & Tools:** Linux, Git, REST APIs, MPI, Amazon Web Services(AWS).
 
 ---
 
