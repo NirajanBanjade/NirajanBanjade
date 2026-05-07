@@ -16,7 +16,7 @@ If you're interested in learning more, feel free to reach out! I'm happy to disc
 
 ## 🌱 **Currently Learning**
 
-- Fine-tuning Large Language Models (LLaMA, Galactica)
+- Fine-tuning and Benchmarking Large Language Models 
 - Cloud computing concepts and scalable architectures
 - Full-Stack Web Development with a focus on backend systems
 
